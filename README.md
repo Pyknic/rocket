@@ -1,5 +1,5 @@
 # Rocket
-Launch system that allows classes to be invoked in phases to make sure all dependencies are satisfied.
+Launch system that allows methods to be invoked in phases to make sure all dependencies are satisfied.
 
 ## Features
 * Custom phases
